@@ -6,7 +6,11 @@ So...I shall give my method to solve the "Environment" problem. It may not be th
 -
 <img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/3f6947e8-8f71-416f-b6b9-372982a27197" />
 
+First, it's Nerdy Hour! 🤓
 
+What is an "environment"? In my understanding, it is better to be refered as a "Workshop" where specific tools (like Python and PyTorch) are organized and ready.
+
+The challenge is that your original system (the "default room") doesn't come with the specialized tools we need. To build something(or at least to use Pytorch), we must construct a new workshop from scratch, bringing every essential instrument directly to our hands.
 
 
 -
@@ -41,3 +45,4 @@ Yet you may encounter these choices. I recommend you to choose like I chose. Sin
 
 <img width="869" height="631" alt="image" src="https://github.com/user-attachments/assets/aace0077-13cd-4c30-b231-4dd60c82ee85" />
 
+-
