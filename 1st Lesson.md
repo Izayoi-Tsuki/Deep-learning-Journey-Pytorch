@@ -50,9 +50,30 @@ Yet you may encounter these choices. I recommend you to choose like I chose. Sin
 Now we need to do some actual coding. Yet it would not be difficult. And understand them would provide you a shallow yet necessary view about environment.
 
 First I want you to find "Anaconda Prompt" and run it. You can find it in the Window Menu or search it by name.
+
 <img width="91" height="80" alt="image" src="https://github.com/user-attachments/assets/67508df7-2390-42e0-b495-f77758f19213" />
+-
+and I strongly recommend you to lock it to the bottom of your desktop.
+<img width="301" height="81" alt="image" src="https://github.com/user-attachments/assets/70fdcc7f-4103-4700-a93c-0bc250b11a69" />
 
 -
-
+Then you would enter a window like a blackboard (to me).
+The (base) in the front tells you that this is in the 'base' environment. Your default room, with no personalized tools.
+<img width="1978" height="1087" alt="image" src="https://github.com/user-attachments/assets/09039700-c672-44c8-a120-a41c46ab13ff" />
+What we are going to do is to build a new, smaller workplace in this base, and isolate it with this base. So that the tools from each environment would not conflict (especially when they have the same names).
 
 -
+So please enter "conda create -n pytorch-gpu python=3.12" and press "enter" on your keyboard. (Reminder: the quote symbol should be ignored when you actaully input something)
+🤓：here, "conda" is what we just installed---a manager who can manage your environments(workplaces); and "create" is the tool you ask conda to do something (here,creating a environment); "-n" means by name, so "pytorch-gpu" is going to be the name of your new environment!
+Last, "python=3.12",this is a very convenient way to tell conda that I want this environment with a python with 3.12 version. Just like tell the decorators to give your workplace(environment named "pytorch-gpu") the most powerful tools(here,Python) in advance.
+
+And it would start something amazing, and seconds later it would look like this:
+<img width="1978" height="1087" alt="image" src="https://github.com/user-attachments/assets/9720c0b6-032b-4d7c-a23d-11da8e4cac9a" />
+type "y" and press "enter" (again, do not type the "" quote signs in! It is a meta-symbol philosophically speaking🤓)
+
+-
+and the mighty conda would download the Python ver.3.12.12 and some other useful tools(now we are going to call them packages).
+<img width="2560" height="1356" alt="image" src="https://github.com/user-attachments/assets/a7a38d3a-5a9f-4021-b7ff-f4f658fb30a6" />
+And I want you to focus on the command you can give after
+
+
