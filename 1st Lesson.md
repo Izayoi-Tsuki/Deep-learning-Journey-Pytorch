@@ -1,20 +1,33 @@
 Let us start with a very important pain in the ass---Environment!
 Actually I believe most of you on Github would not need this tutorial.
 Yet most honest I shall be to record the difficulties I have encountered.
-So...I shall give my method to solve the "Environment" problem. It may not be the best, but not hard to do it on your own PC.
+So...I shall give my method to solve the "Environment" problem. It may not be the best or the simplest, but not hard to do it on your own PC.
 
+Problem:
+-how to use python in my PC?
+-how to use pytorch in my PC?
+-how to make pytorch use my GPU to accelerate computation? (we shall talk about it later)
+-I want to get a clear looking input panel to start my learning, but how?
+
+Goal:
+-get Python
+-get Pytorch
+-get Pytorch which could use GPU
+-get Jupyter Notebook
+
+Let us goooo!
 -
 <img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/3f6947e8-8f71-416f-b6b9-372982a27197" />
 
-First, it's Nerdy Hour! 🤓
+But first, it's Nerdy Hour! 🤓
 
-What is an "environment"? In my understanding, it is better to be refered as a "Workshop" where specific tools (like Python and PyTorch) are organized and ready.
+What is an "environment"? how is it related to the things we mentioned in the problems? In my understanding, it is better to be refered as a "Workshop" where specific tools (like Python and PyTorch) are organized and ready.
 
 The challenge is that your original system (the "default room") doesn't come with the specialized tools we need. To build something(or at least to use Pytorch), we must construct a new workshop from scratch, bringing every essential instrument directly to our hands.
 
 
 -
-Introducing the mighty 
+First, introducing the mighty 
 
 Anaconda!
 
@@ -64,7 +77,9 @@ What we are going to do is to build a new, smaller workplace in this base, and i
 
 -
 So please enter "conda create -n pytorch-gpu python=3.12" and press "enter" on your keyboard. (Reminder: the quote symbol should be ignored when you actaully input something)
-🤓：here, "conda" is what we just installed---a manager who can manage your environments(workplaces); and "create" is the tool you ask conda to do something (here,creating a environment); "-n" means by name, so "pytorch-gpu" is going to be the name of your new environment!
+
+🤓：here, "conda" is what we just installed---a manager who can manage your environments(workplaces); and "create" is the tool you ask conda to do something (here,creating a environment); "-n" means by name, so "pytorch-gpu" is going to be the name of your new environment! RejoiceRejoice!
+
 Last, "python=3.12",this is a very convenient way to tell conda that I want this environment with a python with 3.12 version. Just like tell the decorators to give your workplace(environment named "pytorch-gpu") the most powerful tools(here,Python) in advance.
 
 And it would start something amazing, and seconds later it would look like this:
