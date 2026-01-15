@@ -3,6 +3,13 @@ Actually I believe most of you on Github would not need this tutorial.
 Yet most honest I shall be to record the difficulties I have encountered.
 So...I shall give my method to solve the "Environment" problem. It may not be the best, but not hard to do it on your own PC.
 
+-
+<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/3f6947e8-8f71-416f-b6b9-372982a27197" />
+
+
+
+
+-
 Introducing the mighty 
 
 Anaconda!
@@ -30,7 +37,7 @@ just let it cook
 <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/d4df7aed-e145-443d-a809-eae972be7bf1" />
 
 -
-Yet you may encounter this hard one.
+Yet you may encounter these choices. I recommend you to choose like I chose. Since we could minimalize the change conda would make to your PC.
 
 <img width="869" height="631" alt="image" src="https://github.com/user-attachments/assets/aace0077-13cd-4c30-b231-4dd60c82ee85" />
 
