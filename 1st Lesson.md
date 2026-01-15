@@ -29,7 +29,7 @@ and scroll all the way down until you see "Download Miniconda Installer", Click 
 
 -
 and I think you can choose miniconda since all we need here is Python, Conda and essential dependencies just like it said!
-But if you do want to have its full service, and I think the full conda package is also cool. the problem is that it is a larger file.
+But if you do want to have its full service, I think the full conda package is also cool. the problem is that it is a larger file.
 But it would not harm.
 
 <img width="2477" height="1210" alt="image" src="https://github.com/user-attachments/assets/51221538-04a6-4073-831c-41d0d5ae1816" />
@@ -44,5 +44,15 @@ just let it cook
 Yet you may encounter these choices. I recommend you to choose like I chose. Since we could minimalize the change conda would make to your PC.
 
 <img width="869" height="631" alt="image" src="https://github.com/user-attachments/assets/aace0077-13cd-4c30-b231-4dd60c82ee85" />
+<img width="994" height="628" alt="38a782f00fbf792d912a9259fb81e631" src="https://github.com/user-attachments/assets/3a6e2e5e-3523-4a41-acee-1534c73a6d11" />
+
+-
+Now we need to do some actual coding. Yet it would not be difficult. And understand them would provide you a shallow yet necessary view about environment.
+
+First I want you to find "Anaconda Prompt" and run it. You can find it in the Window Menu or search it by name.
+<img width="91" height="80" alt="image" src="https://github.com/user-attachments/assets/67508df7-2390-42e0-b495-f77758f19213" />
+
+-
+
 
 -
