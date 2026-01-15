@@ -4,9 +4,12 @@ Yet most honest I shall be to record the difficulties I have encountered.
 So...I shall give my method to solve the "Environment" problem. It may not be the best or the simplest, but not hard to do it on your own PC.
 
 Problem:
--how to use python in my PC?
+-how to use python in my PC? 
+
 -how to use pytorch in my PC?
+
 -how to make pytorch use my GPU to accelerate computation? (we shall talk about it later)
+
 -I want to get a clear looking input panel to start my learning, but how?
 
 Goal:
