@@ -34,6 +34,8 @@ What is an "environment"? how is it related to the things we mentioned in the pr
 
 The challenge is that your original system (the "default room") doesn't come with the specialized tools we need. To build something(or at least to use Pytorch), we must construct a new workshop from scratch, bringing every essential instrument directly to our hands.
 
+Another challenge is that you need all the tools to be in the right version to work together, so we build the environment from scratch and install tools into it from scratch as well to avoid such a problem.
+
 
 -
 Introducing the mighty 
@@ -123,6 +125,9 @@ pip means "Python's Package Installer" (What a functionalist name...) You can te
 when you have pip, you can get access to a lot of resources online, download and install them into your PC with command.
 
 So now we already have python. One problem solved. Another one is to get pytorch.
+
+Here, I speak to those whose PC has a Nvidia GPU. If you do not have one, you may 
+
 
 
 
