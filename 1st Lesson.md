@@ -4,6 +4,7 @@ Yet most honest I shall be to record the difficulties I have encountered.
 So...I shall give my method to solve the "Environment" problem. It may not be the best or the simplest, but not hard to do it on your own PC.
 
 Problem:
+
 -how to use python in my PC? 
 
 -how to use pytorch in my PC?
@@ -13,12 +14,17 @@ Problem:
 -I want to get a clear looking input panel to start my learning, but how?
 
 Goal:
+
 -get Python
+
 -get Pytorch
+
 -get Pytorch which could use GPU
+
 -get Jupyter Notebook
 
 Let us goooo!
+
 -
 <img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/3f6947e8-8f71-416f-b6b9-372982a27197" />
 
@@ -30,11 +36,11 @@ The challenge is that your original system (the "default room") doesn't come wit
 
 
 -
-First, introducing the mighty 
+Introducing the mighty 
 
 Anaconda!
 
-I recommend you to download Anaconda from its website (https://www.anaconda.com/download). 
+I recommend you to download Anaconda from its official website (https://www.anaconda.com/download). 
 
 <img width="2477" height="1210" alt="image" src="https://github.com/user-attachments/assets/844cd24b-fe7a-4bc2-b38f-45e601403e5d" />
 
@@ -92,6 +98,33 @@ type "y" and press "enter" (again, do not type the "" quote signs in! It is a me
 -
 and the mighty conda would download the Python ver.3.12.12 and some other useful tools(now we are going to call them packages).
 <img width="2560" height="1356" alt="image" src="https://github.com/user-attachments/assets/a7a38d3a-5a9f-4021-b7ff-f4f658fb30a6" />
-And I want you to focus on the command you can give after
+And I want you to focus on the command you can give afterwards to activate this environment you just created.
+
+So we type "conda activate pytorch-gpu"(<here I use "test" as my new environment, you just type in the name you gave before>) and press "enter"
+
+-
+<img width="776" height="219" alt="image" src="https://github.com/user-attachments/assets/c7071c20-c968-47da-b847-3b2367334682" />
+people with sharp eyes could notice that something has changed.
+
+<base> → <pytorch-gpu>
+
+What does it mean? It means after you create a new environment, you could enter it by using "conda activate" command. And now you are moving from your 'base' environment to the new "pytorch-gpu" environment. And in this environment, you can use the tools you have asked them to give you before---Python 3.12.12
+
+-
+now please type "conda list" to see what you really have in this environment.
+<img width="1032" height="819" alt="image" src="https://github.com/user-attachments/assets/489b4939-d660-4568-b51b-3e85d56d1e26" />
+And if there is no accident, you can see such things.
+
+These are the tools you can now use. You would notice that Python is in the list now. and there is another thing called pip we would use now.
+
+-
+pip means "Python's Package Installer" (What a functionalist name...) You can tell it is used to install more tools (packages)
+
+when you have pip, you can get access to a lot of resources online, download and install them into your PC with command.
+
+So now we already have python. One problem solved. Another one is to get pytorch.
+
+
+
 
 
