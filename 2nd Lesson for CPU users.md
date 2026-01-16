@@ -34,19 +34,18 @@ Click that giant orange button with "Get Started" on it.
 -
 And you can see this filter, choose wisely according to your settings. I think my choices are wise enough for most Windows Python users.
 
-Yet you need to choose "Compute Platform" different than mine!!!!
+Since you are using CPU, you may choose "CPU".
 
-Since you are using CPU, you may choose "CPU" instead.
-<img width="2477" height="1210" alt="image" src="https://github.com/user-attachments/assets/3a1117f4-8395-4b62-9e20-c6c6b84ba797" />
+<img width="2477" height="1210" alt="image" src="https://github.com/user-attachments/assets/9e3550ac-f0c4-4bf6-8326-4b2a5690f0ef" />
 
--
-<img width="2477" height="1210" alt="image" src="https://github.com/user-attachments/assets/0a0111a7-114a-4cf8-8faf-db7d18f22a40" />
 And please copy the command the filter panel gives you (like a magic 8 ball, right?) to your anaconda prompt.
 
 You need to make sure you paste this command to your prepared envrionment (pytorch-cpu or whatever name you gave, make sure you are not running this command under <base> environment)
 
+--
 Here, running means to type or paste it, and then press "Enter"
-<img width="1978" height="1087" alt="image" src="https://github.com/user-attachments/assets/2617c23d-063e-4a62-898a-a705db07def2" />
+<img width="1978" height="1046" alt="image" src="https://github.com/user-attachments/assets/d2300a7e-39e9-429f-ae3d-a41acd3a0448" />
+
 
 -
 It would take some time. So let's nerd something up!
