@@ -117,7 +117,7 @@ now please type "conda list" to see what you really have in this environment.
 <img width="1032" height="819" alt="image" src="https://github.com/user-attachments/assets/489b4939-d660-4568-b51b-3e85d56d1e26" />
 And if there is no accident, you can see such things.
 
-These are the tools you can now use. You would notice that Python is in the list now. and there is another thing called pip we would use now.
+These are the tools you can now use. You would notice that Python is in the list. and there is another thing called pip we would use now.
 
 -
 pip means "Python's Package Installer" (What a functionalist name...) You can tell it is used to install more tools (packages)
@@ -126,7 +126,7 @@ when you have pip, you can get access to a lot of resources online, download and
 
 So now we already have python. One problem solved. Another one is to get pytorch.
 
-Here, I speak to those whose PC has a Nvidia GPU. If you do not have one, you may 
+Here, I speak to those whose PC has a Nvidia GPU. If you do not have one, you may skip this part (or find another tutorial) and enter 2nd Lesson.
 
 
 
