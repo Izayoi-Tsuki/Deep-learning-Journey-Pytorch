@@ -126,7 +126,7 @@ when you have pip, you can get access to a lot of resources online, download and
 
 So now we already have python. One problem solved. Another one is to get pytorch.
 
-Here, I speak to those whose PC has a Nvidia GPU. If you do not have one, you may skip this part (or find another tutorial) and enter 2nd Lesson.
+Here, I speak to those whose PC has a Nvidia GPU. If you do not have one, you may skip the 2nd lesson (or find another tutorial) and enter 3rd Lesson.
 
 
 
