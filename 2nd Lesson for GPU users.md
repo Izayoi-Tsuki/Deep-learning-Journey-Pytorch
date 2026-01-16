@@ -80,7 +80,7 @@ So we can see, this command starts with the package you wanna use, the function 
 And you may find that it is successfully installed. Here, "it" is acuatlly a collection of complex tools pytorch would need to use, we do not need to know them now.
 <img width="1978" height="1087" alt="image" src="https://github.com/user-attachments/assets/0c79a7cd-dc8b-4206-b9cc-1fa15b57d5a4" />
 
-And now let us move to the 4th Lesson to finish our environment building!
+And now let us move to the 3rd Lesson to finish our environment building!
 
 
 
